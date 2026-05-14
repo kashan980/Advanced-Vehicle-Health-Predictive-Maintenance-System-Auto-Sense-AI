@@ -266,7 +266,6 @@ Returns server status.
 |---------|-------------|----------------|
 | Green gauge ~92% | Amber gauge ~52% | Red gauge ~12% |
 
-*(Add actual screenshots here after running the app)*
 
 ---
 
@@ -283,5 +282,3 @@ Returns server status.
 **Year:** 2025
 
 ---
-
-*Built with ❤️ for AI course project — Riphah International University*
